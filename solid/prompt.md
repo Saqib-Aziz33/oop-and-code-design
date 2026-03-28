@@ -26,7 +26,7 @@ We will go through each principle one by one (S → O → L → I → D). For ea
    - Example from actual software systems (e.g., payments, auth, APIs)
 
 7. **When to Apply / When NOT to Apply**
-   - Practical guidance (avoid overengineering)
+   - Practical guidance (avoid over engineering)
 
 8. **Code Smells & Detection**
    - How to recognize violations in existing code
